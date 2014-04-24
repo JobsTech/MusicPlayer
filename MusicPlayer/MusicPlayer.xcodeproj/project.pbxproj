@@ -24,6 +24,7 @@
 		9357F768190789C600E78AD5 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 9357F767190789C600E78AD5 /* Person.m */; };
 		9357F76B19078A9400E78AD5 /* Dog.m in Sources */ = {isa = PBXBuildFile; fileRef = 9357F76A19078A9400E78AD5 /* Dog.m */; };
 		9362CE1E1908C9C800C3700C /* WTMan.m in Sources */ = {isa = PBXBuildFile; fileRef = 9362CE1D1908C9C800C3700C /* WTMan.m */; };
+		9362CE621908D82300C3700C /* WTGirl.m in Sources */ = {isa = PBXBuildFile; fileRef = 9362CE611908D82300C3700C /* WTGirl.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,8 @@
 		9357F76A19078A9400E78AD5 /* Dog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Dog.m; sourceTree = "<group>"; };
 		9362CE1C1908C9C800C3700C /* WTMan.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTMan.h; sourceTree = "<group>"; };
 		9362CE1D1908C9C800C3700C /* WTMan.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTMan.m; sourceTree = "<group>"; };
+		9362CE601908D82300C3700C /* WTGirl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTGirl.h; sourceTree = "<group>"; };
+		9362CE611908D82300C3700C /* WTGirl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTGirl.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +135,8 @@
 				9357F767190789C600E78AD5 /* Person.m */,
 				9362CE1C1908C9C800C3700C /* WTMan.h */,
 				9362CE1D1908C9C800C3700C /* WTMan.m */,
+				9362CE601908D82300C3700C /* WTGirl.h */,
+				9362CE611908D82300C3700C /* WTGirl.m */,
 			);
 			path = MusicPlayer;
 			sourceTree = "<group>";
@@ -265,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9362CE621908D82300C3700C /* WTGirl.m in Sources */,
 				9357F73E190787CC00E78AD5 /* main.m in Sources */,
 				9357F742190787CC00E78AD5 /* WTAppDelegate.m in Sources */,
 				9357F76B19078A9400E78AD5 /* Dog.m in Sources */,
