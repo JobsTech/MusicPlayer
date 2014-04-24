@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EBA9F434-5D03-4470-96C8-76453944020D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MusicPlayer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>88D27122-A59A-46C6-A780-1EC243AA3FA3</key>
+		<string>https://github.com/JobsTech/MusicPlayer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MusicPlayer/MusicPlayer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>88D27122-A59A-46C6-A780-1EC243AA3FA3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JobsTech/MusicPlayer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>88D27122-A59A-46C6-A780-1EC243AA3FA3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>88D27122-A59A-46C6-A780-1EC243AA3FA3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MusicPlayer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
